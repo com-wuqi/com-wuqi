@@ -1,0 +1,36 @@
+name: Generate Snake Animation
+
+on:
+  # 每天 UTC 时间 0 点运行
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+  # 推送时也可触发（用于测试）
+  push:
+    branches:
+      - main  # 如果你的主分支是 master，请改为 master
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 需要写入权限来推送生成的文件
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3  # 使用最新 v3 版本
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark  # 👈 深色主题关键配置
+      
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
+          publish_branch: output  # 生成文件将推送到 output 分支
