@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm com-wuqi
 
 <!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Full-stack+developer;Open+source+enthusiast;Love+building+cool+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Open+source+enthusiast;Love+building+cool+things)](https://git.io/typing-svg)
 
 ---
 
