@@ -22,6 +22,12 @@
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+
+---
 
 ### 📈 Visitor Count
 ![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcom-wuqi&label=Visitors&countColor=%23263759)
