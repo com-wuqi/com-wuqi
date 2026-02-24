@@ -29,5 +29,14 @@
 
 ---
 
+### A snake here
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/com-wuqi/com-wuqi/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/com-wuqi/com-wuqi/output/github-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/com-wuqi/com-wuqi/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 📈 Visitor Count
 ![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcom-wuqi&label=Visitors&countColor=%23263759)
