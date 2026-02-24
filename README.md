@@ -6,11 +6,11 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **项目名**
+- 🔭 I’m currently working on ** ... **
 - 🌱 I’m currently learning **新技术**
 - 👯 I’m looking to collaborate on **开源项目**
 - 💬 Ask me about **技术/兴趣**
-- 📫 How to reach me: [Email](mailto:你的邮箱) | [Twitter](https://twitter.com/你的ID)
+- 📫 How to reach me: [Email](mailto:2025214516@ecut.edu.cn) 
 - ⚡ Fun fact: **有趣的事**
 
 ---
