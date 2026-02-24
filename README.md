@@ -13,6 +13,9 @@
 - 📫 How to reach me: [Email](mailto:2025214516@ecut.edu.cn) 
 - ⚡ Fun fact: **有趣的事**
 
+[![GitHub Streak](https://github-readme-streak-stats-woad-phi-20.vercel.app/?user=com-wuqi&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+
+
 ---
 
 ### 🛠️ Languages and Tools
