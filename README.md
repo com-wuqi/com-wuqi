@@ -1,4 +1,4 @@
-### Hi there 👋, I'm 你的名字
+### Hi there 👋, I'm com-wuqi
 
 <!-- 动态打字效果 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&width=435&lines=Full-stack+developer;Open+source+enthusiast;Love+building+cool+things)](https://git.io/typing-svg)
@@ -19,17 +19,9 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-
----
-
-### 📊 GitHub Stats
-![你的用户名的 GitHub stats](https://github-readme-stats.vercel.app/api?username=com-wuqi&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=com-wuqi&layout=compact&theme=radical)
-
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ---
 
 ### 📈 Visitor Count
-![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F你的用户名&label=Visitors&countColor=%23263759)
+![Visitor Count](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcom-wuqi&label=Visitors&countColor=%23263759)
