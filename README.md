@@ -23,9 +23,28 @@
 
 ---
 ### 📊 GitHub Stats
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+<!-- 统计卡片 - 支持深色/浅色自动切换 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="./profile/stats-light.svg" />
+    <img alt="GitHub Stats" src="./profile/stats-light.svg" />
+  </picture>
+</p>
+
+<!-- 语言分布卡片 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" 
+            srcset="./profile/top-langs-light.svg" />
+    <img alt="Top Languages" src="./profile/top-langs-light.svg" />
+  </picture>
+</p>
+
 
 ---
 
