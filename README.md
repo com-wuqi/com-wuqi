@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **开源项目**
 - 💬 Ask me about **技术/兴趣**
 - 📫 How to reach me: [Email](mailto:2025214516@ecut.edu.cn) 
-- ⚡ Fun fact: **有趣的事**
+- ⚡ Fun fact: **这个家伙代码水平不高**
 
 ---
 
