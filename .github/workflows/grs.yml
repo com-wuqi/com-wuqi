@@ -27,7 +27,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default
           path: profile/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate top languages card (light)
         uses: readme-tools/github-readme-stats-action@v1
@@ -35,7 +35,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=default
           path: profile/top-langs-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate pin card (light)
         uses: readme-tools/github-readme-stats-action@v1
@@ -43,7 +43,7 @@ jobs:
           card: pin
           options: username=readme-tools&repo=github-readme-stats&theme=default
           path: profile/pin-readme-tools-github-readme-stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       # ========== 深色主题卡片 ==========
       - name: Generate stats card (dark)
@@ -52,7 +52,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate top languages card (dark)
         uses: readme-tools/github-readme-stats-action@v1
@@ -60,7 +60,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark
           path: profile/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Generate pin card (dark)
         uses: readme-tools/github-readme-stats-action@v1
@@ -68,7 +68,7 @@ jobs:
           card: pin
           options: username=readme-tools&repo=github-readme-stats&theme=dark
           path: profile/pin-readme-tools-github-readme-stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       # ========== 提交所有卡片 ==========
       - name: Commit cards
