@@ -11,6 +11,11 @@ jobs:
 
     permissions:
       contents: write
+      pull-requests: read
+      issues: read
+      actions: read
+      checks: read
+      repository-projects: read
 
     steps:
       - uses: actions/checkout@v6
